@@ -7,6 +7,9 @@ Raw data of CO2 concentration timeseries and colony weight
 ## Data2 (Repeated measurements to assess invasiveness).zip
 Raw data of repeated measurements assessing invasiveness
 
+## Data3 (CO2 emissions from rearing medium).zip
+Raw data of CO2 concentration timeseries measured on rearing medium
+
 ## analysis and visualization.ipynb
 Colab notebook codes for statistical analysis and visualization using Data 1 and Data 2
 
